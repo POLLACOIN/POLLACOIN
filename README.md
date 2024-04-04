@@ -1,5 +1,5 @@
 ### Hi there 👋
-funciona para apollar el proyecto de POLLACOIN   CHAT  COMUNIDAD Y MUCHIO MAS   ETC ETC 
+funciona para apollar el proyecto de POLLACOIN   CHAT  COMUNIDAD Y MUCHO MAS   ETC ETC 
 <!--
 **POLLACOIN/POLLACOIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
